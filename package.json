@@ -1,7 +1,6 @@
 {
-  "name": "bike-index",
+  "name": "dino-ipsum",
   "version": "1.0.0",
-  "description": "",
   "main": "gulpfile.js",
   "scripts": {
     "test": "karma start karma.conf.js"
@@ -35,5 +34,6 @@
   },
   "dependencies": {
     "babel-core": "^6.26.0"
-  }
+  },
+  "description": ""
 }
